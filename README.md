@@ -22,8 +22,6 @@ Chatly provides a simple chat bubble widget that offers configurable branding an
 - Images: `includes/img/`
 
 ## License
-This plugin is distributed under the GNU General Public License v3.0 (GPL-3.0). You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/gpl-3.0.en.html>.
+This plugin is distributed under the `GNU General Public License v3.0 (GPL-3.0)`. You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/gpl-3.0.en.html>.
 
 Copyright (C) 2025 DigiFox Technologies
-
-If you want me to also add a `LICENSE` file or update the plugin header to explicitly state GPL-3.0, tell me and I will add that change.
